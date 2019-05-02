@@ -1,0 +1,12 @@
+h1 {
+    color:red;
+}
+
+ul {
+    margin-top: 15pt;
+}
+
+.invalidAmount {
+    border-color: red;
+    box-shadow: red;
+}
